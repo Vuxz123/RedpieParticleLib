@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="QuestCreator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../buildtools/QuestCreator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
